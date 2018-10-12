@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "450195694871",
+    "firebase_url": "https://future-21fd0.firebaseio.com",
+    "project_id": "future-21fd0",
+    "storage_bucket": "future-21fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450195694871:android:d9edf35333612aa7",
+        "android_client_info": {
+          "package_name": "com.futureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450195694871-p9pr3srbjbkjpg42gg2dmlc17ec86t2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JAhS-Q-FpMwvFiWPqj9PcogSJD10Z4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
