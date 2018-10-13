@@ -1,7 +1,4 @@
-//
-// Copyright © 2017-Present, Punchh, Inc.
-// All rights reserved.
-//
+
 'use strict';
 
 import { createStore, compose, applyMiddleware } from 'redux';
